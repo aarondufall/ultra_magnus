@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = UltraMagnus::VERSION
   spec.authors       = ["Aaron Dufall"]
   spec.email         = ["aald212@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Transforms data structures}
+  spec.description   = %q{Task a collection of data a rebuilds is with a clean DSL}
   spec.homepage      = ""
   spec.license       = "MIT"
 
